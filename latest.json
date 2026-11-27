@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "url": "https://raw.githubusercontent.com/aljo04/cozytime-izdaje/main/3.1/CozyTime.exe",
-  "sha256": "dc0a50722df0a0e76c3b5228b09caee63c71dd2527793d423c3814ef58153346",
-  "notes": "Gumb »Popravi požarni zid« in iskanje TV-ja tudi, ko ga Windows blokira."
+  "version": "3.2",
+  "url": "https://raw.githubusercontent.com/aljo04/cozytime-izdaje/main/3.2/CozyTime.exe",
+  "sha256": "53014230771f6f6c436a17c1b10a1ba89c172bad520792befaaedd2d8c4a4788",
+  "notes": "Opozorilo za požarni zid se ne kaže več, ko je zid že urejen."
 }
